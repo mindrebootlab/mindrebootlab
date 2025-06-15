@@ -1,9 +1,14 @@
+// app/layout.tsx
 export const metadata = {
-  title: "MindReboot Lab",
-  description: "Hypnosis platform for anxiety, confidence, trauma, and transformation",
+  title: 'MindReboot Lab',
+  description: 'Hypnotherapy Audio Library',
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
       <body>{children}</body>
