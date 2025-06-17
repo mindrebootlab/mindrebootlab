@@ -91,11 +91,11 @@ export default function HomePage() {
         <h2 className="text-3xl font-semibold text-center mb-8">Trusted by Thousands</h2>
         <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-8">
           <div className="p-4 border rounded shadow">
-<p className="text-lg italic">&quot;87% of users reported reduced anxiety within 3 weeks of daily listening.&quot;</p>
+            <p className="text-lg italic">&quot;87% of users reported reduced anxiety within 3 weeks of daily listening.&quot;</p>
             <p className="text-sm text-right mt-2 text-gray-500">– Clinical Study, 2023</p>
           </div>
           <div className="p-4 border rounded shadow">
-            <p className="text-lg italic">"I beat my fear of flying thanks to MindReboot’s custom audio. It was surreal!"</p>
+<p className="text-lg italic">&quot;I beat my fear of flying thanks to MindReboot’s custom audio. It was surreal!&quot;</p>
             <p className="text-sm text-right mt-2 text-gray-500">– Simran P., India</p>
           </div>
         </div>
